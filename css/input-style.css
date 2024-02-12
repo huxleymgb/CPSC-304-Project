@@ -1,0 +1,39 @@
+input {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    transition-duration: 100ms;
+    font-size: 14px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+input[type="radio"] {
+    width: auto;
+}
+
+button {
+    padding: 10px;
+    font-size: 14px; 
+    background-color: #fff;
+    border-radius: 3px;
+    transition-duration: 100ms;
+    margin: 10px;
+    margin-left: 0;
+}
+
+button:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+label {
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 0px;
+}
+
+select {
+    padding: 10px;
+    margin-right: 10px;
+}
